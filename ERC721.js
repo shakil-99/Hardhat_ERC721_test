@@ -1,3 +1,4 @@
+//This is a hardhat testing file
 const {expect} = require("chai");
 
 const {ethers} = require("hardhat");
