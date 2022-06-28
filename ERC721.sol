@@ -1,4 +1,5 @@
 // SPDX-License-Identifier: UNLICENSED
+//This is a smart contract ERC721 i am going to do hardhat testing on this contract
 pragma solidity ^0.8.9;
 
 import "hardhat/console.sol";
